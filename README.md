@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML and CSS**
 
-- 📫 How to reach me **d_korochkin@mail.ru**
+- 📫 How to reach me **d_korochkin@inbox.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
