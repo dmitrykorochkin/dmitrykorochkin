@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dmitry Korochkin</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **React, JavaScript**
+- 🌱 I’m currently learning **React, JavaScript, TypeScript**
 
 - 💬 Ask me about **HTML and CSS**
 
