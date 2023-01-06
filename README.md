@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dmitry Korochkin</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
-- 🌱 I’m currently learning **React, JavaScript**
+- 🌱 I’m currently learning **React, JavaScript, TypeScript**
 
 - 💬 Ask me about **HTML and CSS**
 
-- 📫 How to reach me **dmitry.korochkin.web@gmail.com**
+- 📫 How to reach me **dmitry.korochkin@inbox.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
